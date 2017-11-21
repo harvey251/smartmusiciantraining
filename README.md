@@ -1,0 +1,2 @@
+# smartmusiciantraining
+Code for project
